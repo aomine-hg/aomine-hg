@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/amdLLQ2.jpg)l(https://github.com/aomine-hg)
+[![MasterHead](https://i.imgur.com/amdLLQ2.jpg)](https://github.com/aomine-hg)
 <h1 align="center">Hi there, I'm Aomine</h1>
 <h3 align="center">Node Runner 🔹 Community Manager 🔹 NFT Enthusiast</h3>
 
