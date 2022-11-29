@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomine-hg&label=Profile%20views&color=0e75b6&style=flat" alt="aomine-hg" /> </p>
 
-- 🤝 Contact Email **yayanfarhan03@gmail.com**
+- 🤝 Contact Email **aomineblockchain@gmail.com**
 - 🧸 Funfact **9 times failed in love**
 
 <h3 align="left">Connect with me:</h3>
